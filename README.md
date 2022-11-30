@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/kssali23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kssali23&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kssali23&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kssali23&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kssali23&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KSSALI23&bg_color=7c0478&color=ed92d9&line=ee6de7&point=f8e8f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
