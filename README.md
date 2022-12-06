@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5987b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=OIII,+Eu+sou+a+Brenda+Cassali;Tenho+27+anos;Estou+estudando+para+ser+Dev+Front-End;Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c5987b&size=35&center=true&vCenter=true&width=1000&lines=OIII,+Eu+sou+a+Brenda+Cassali;Tenho+27+anos;Estou+estudando+para+ser+Dev+Front-End;Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/kssali23">
@@ -11,4 +11,4 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KSSALI23&bg_color=7c0478&color=ed92d9&line=ee6de7&point=f8e8f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5987b&height=120&section=footer"/>
